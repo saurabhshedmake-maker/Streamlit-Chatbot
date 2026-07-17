@@ -24,3 +24,6 @@ It provides an interactive web interface where users can type questions and rece
 1. Clone this repository:
    ```bash
    git clone https://github.com/saurabhshedmake-maker/streamlit-chatbot.git
+
+2. Site Link (Easy Access):
+    https://chatbot-ai-7.streamlit.app/#result-2
